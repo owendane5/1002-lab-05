@@ -1,0 +1,91 @@
+@import url(./reset.css);
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100&family=Oswald:wght@200&family=Ubuntu&display=swap');
+
+
+
+
+
+
+.main-header-titles > h1 {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 46pt;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color:blue;
+    margin: 1em;
+
+}
+
+.main-header-titles > h3 {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 25pt;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0.5em;
+
+
+}
+
+
+ #Paragraphs{
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    border: 1px solid black;
+border-color: black;   
+    border-radius: 10px;
+    
+ }
+
+
+body {
+
+    font-family: 'Lato', sans-serif;
+    font-size: 15pt;
+    
+    
+}
+
+figure{
+    float: left;
+    width: 650px;
+}
+
+#p1{
+    background-color: #ccc;
+    margin: 0.5em;
+    line-height: 2;
+    font-weight: bold;
+}
+#p2{
+    margin: 0.5em;
+    line-height: 2;
+    font-weight: bold;
+    color: blue;
+}
+
+#p3{
+background-color: #ccc;
+margin: 0.5em;
+line-height: 2;
+font-weight: bold;
+}
+
+#p4{
+    font-weight: bold;
+    line-height: 2;
+    margin: 0.5em;
+    color:blue;
+
+}
+
+h2{
+    text-align: auto;
+    font-weight: bold;
+    font-size: 25px;
+    font-style:oblique;
+}
